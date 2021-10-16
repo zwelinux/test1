@@ -1,0 +1,21 @@
+-> sphinx 
+-> .rst file make html generate -> .html 
+
+-> web developer (html css bootstrap template )
+- html code 
+
+-> end user
+- googling 
+
+data
+- link page (Home, Professional, Contact) - Done 
+- image - Done 
+- video - Done 
+- link - Done 
+- button - Done 
+
+- version control (github)
+  - gitaccount create
+  - 
+
+- hosting (readthedocs)
